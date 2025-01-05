@@ -4,9 +4,9 @@ This project demonstrates a Sinkhole Attack simulation using the ns-3 network si
 
 Prerequisites
 -------------
-ns-3 installed on your system.
-Basic knowledge of C++ and ns-3.
-NetAnim for visualization.
+1. ns-3 installed on your system.
+2. Basic knowledge of C++ and ns-3.
+3. NetAnim for visualization.
 
 **Steps to Run the Simulation**
 -------------------------------
