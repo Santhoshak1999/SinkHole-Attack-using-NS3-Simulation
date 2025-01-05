@@ -1,6 +1,7 @@
 # SinkHole-Attack-using-NS3-Simulation
 
 This project demonstrates a Sinkhole Attack simulation using the ns-3 network simulator. The simulation highlights the impact of sinkhole attacks in a wireless ad hoc network.
+![image](https://github.com/user-attachments/assets/1e04ed70-f36f-4afd-b514-d034634c5aa8)
 
 Prerequisites
 -------------
