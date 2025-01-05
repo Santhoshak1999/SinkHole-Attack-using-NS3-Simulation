@@ -20,12 +20,14 @@ NetAnim for visualization.
 6. Load the file Sinkhole_attack_example.xml in the NetAnim GUI to view the packet transmissions.
 
 **Outputs**
+----------
 
 Energy Log File: Energy consumption of nodes is logged in energy_log.csv.
 NetAnim XML File: Packet transmission is visualized in Sinkhole_attack_example.xml.
 Simulation Statistics: Total packets sent and received are displayed in the terminal.
 
 **Explanation**
+--------------
 The simulation consists of 22 nodes: 20 regular nodes, 1 start node, and 1 sink node.
 Two nodes act as sinkhole attackers, disrupting the network by drawing traffic.
 The remaining nodes communicate using AODV routing.
